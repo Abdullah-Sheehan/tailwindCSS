@@ -801,6 +801,10 @@ h1 {
 
 /* For Making own utiliy class */
 
+.text-body{
+  font-size: 12px;
+}
+
 .hover\:scale-105:hover {
   --tw-scale-x: 1.05;
   --tw-scale-y: 1.05;

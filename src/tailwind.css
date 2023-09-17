@@ -27,4 +27,7 @@
 
 @layer utilities{
     /* For Making own utiliy class */
+    .text-body{
+        font-size: 12px;
+    }
 }
